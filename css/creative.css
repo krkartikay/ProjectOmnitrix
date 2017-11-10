@@ -298,6 +298,7 @@ header.masthead {
 
 .btn-primary {
   color: white;
+
   border-color: #F05F40;
   background-color: #F05F40; }
   .btn-primary.focus, .btn-primary:focus {
@@ -311,8 +312,8 @@ header.masthead {
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
-    border-color: #e13612;
-    background-color: #eb3812; }
+    border-color: #000000;
+    background-color: #000000; }
     .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover,
     .open > .btn-primary.dropdown-toggle.focus,
     .open > .btn-primary.dropdown-toggle:focus,
